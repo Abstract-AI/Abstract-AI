@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abstract-AI
-- 👀 I’m interested in AI, Electronics and Cubing
+- 👀 I’m interested in AI, Electronics and speedcubing
 - https://www.youtube.com/channel/UCY86vvnCrF72UNUFFqmoCXQ
 
 <!---
